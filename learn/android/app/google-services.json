@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847162939973",
+    "project_id": "marketplace-f7a51",
+    "storage_bucket": "marketplace-f7a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847162939973:android:f285ea72fe6b70b46aa12c",
+        "android_client_info": {
+          "package_name": "com.example.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847162939973-lqjav91k4mih27rgi72usv9h1940fdoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXvSRvIDiPIdltk0Te9WBDxXPWlV3Gf2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847162939973-lqjav91k4mih27rgi72usv9h1940fdoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
